@@ -83,6 +83,7 @@
             <url>https://maven.pkg.github.com/crac/org.crac</url>
         </repository>
         <repository>
+            <id>github2</id>
             <url>https://maven.pkg.github.com/crac/quarkus</url>
         </repository>
    </repositories>
