@@ -84,7 +84,7 @@
         </repository>
         <repository>
             <id>github2</id>
-            <url>https://maven.pkg.github.com/crac/quarkus</url>
+            <url>https://maven.pkg.github.com/AntonKozlov/quarkus</url>
         </repository>
    </repositories>
 
