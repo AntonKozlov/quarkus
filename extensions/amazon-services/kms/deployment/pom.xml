@@ -7,7 +7,7 @@
     <parent>
         <groupId>io.quarkus</groupId>
         <artifactId>quarkus-amazon-kms-parent</artifactId>
-        <version>4-crac</version>
+        <version>5-crac</version>
     </parent>
 
     <artifactId>quarkus-amazon-kms-deployment</artifactId>

@@ -12,7 +12,7 @@
     <groupId>io.quarkus.qute</groupId>
     <artifactId>qute-parent</artifactId>
     <packaging>pom</packaging>
-    <version>4-crac</version>
+    <version>5-crac</version>
 
     <name>Qute - Parent</name>
     
